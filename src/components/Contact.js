@@ -192,8 +192,7 @@ class Contact extends Component {
           <h3 className="white-color">Contact Me</h3>
           <hr className="white-color sub" />
           <p className="text-faded contact">
-            The world becomes a better place when people truly express
-            themselves.
+            Please don't be hesitate to contact me and express your idea with me
           </p>
           <div className="row">
             <form className="col s12" onSubmit={this.sendData}>
