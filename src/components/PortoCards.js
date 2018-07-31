@@ -23,12 +23,12 @@ class PortoCards extends Component {
     });
 
     return (
-      <Col s={8} m={4} key={id}>
+      <Col s={8} m={4}>
         <Card
           header={<CardTitle image={image} alt={alt} />}
           title={name}
           actions={[
-            <Row>
+            <Row key={id}>
               <Col s={6}>
                 <Modal
                   className="col s6"
