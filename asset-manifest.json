@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.7631f08d.css",
   "main.css.map": "static/css/main.7631f08d.css.map",
-  "main.js": "static/js/main.cf8a01fe.js",
-  "main.js.map": "static/js/main.cf8a01fe.js.map",
+  "main.js": "static/js/main.32138093.js",
+  "main.js.map": "static/js/main.32138093.js.map",
   "static/media/1.png": "static/media/1.b324324c.png",
   "static/media/2.png": "static/media/2.d07aaec0.png",
   "static/media/Caribbean_Island.woff": "static/media/Caribbean_Island.23488ea4.woff",
@@ -23,5 +23,6 @@
   "static/media/github.png": "static/media/github.56aa79c1.png",
   "static/media/homepage.png": "static/media/homepage.a92c8104.png",
   "static/media/linkedin.jpg": "static/media/linkedin.f6eaf68b.jpg",
-  "static/media/norman_v_1_0.png": "static/media/norman_v_1_0.78b51cd9.png"
+  "static/media/norman_v_1_0.png": "static/media/norman_v_1_0.78b51cd9.png",
+  "static/media/simple-link-frame.png": "static/media/simple-link-frame.3d9b8ada.png"
 }
